@@ -1,6 +1,6 @@
 # All you need to install Sensable/Geomatics/3DSystem for haptic device on Windows 10
 
-## installing the legacy i1394 driver
+## Install the legacy i1394 driver
 
 - Get the drivers ```.msi``` in the repository. Double clic on the file to install it. 
 - Open the Device Manager and find the i1394 device, righ click on it and update driver.
