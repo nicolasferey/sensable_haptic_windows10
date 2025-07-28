@@ -22,4 +22,5 @@ You have to know that you can use USB C with adaptator, it works with three adap
 ## Test the Open Haptic Library with the device
 You can test all the application provided by the 3DSystem before programming your own application.
 
-## Optionnaly you can install VRPN 7.35, using CMake and generating .sln to compile it with Visual Studio Communauty 
+## VRPN and Open Haptic
+Optionnaly you can install VRPN 7.35, using CMake and generating .sln to compile it with Visual Studio Communauty 
