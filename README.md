@@ -16,11 +16,11 @@
 - Open the Test application
 - If legacy driver are well installed, force feedback should work
 
-## Firewrire and USB C
+## Firewire and USB C
 You have to know that you can use USB C with adaptator, it works with three adaptators to go from the haptic device in firewire to my USB C on my Mac/PC under Windows 10. However be carreful because i1394 is often managed only on one USB C. 
 
 ## Test the Open Haptic Library with the device
 You can test all the application provided by the 3DSystem before programming your own application.
 
 ## VRPN and Open Haptic
-Optionnaly you can install VRPN 7.35, using CMake and generating .sln to compile it with Visual Studio Communauty 
+Optionnaly you can install VRPN 7.35, using CMake and generating .sln to compile it with Visual Studio Communauty 2022
