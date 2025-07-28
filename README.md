@@ -20,7 +20,7 @@
 You have to know that you can use USB C with adaptator, it works with three adaptators to go from the haptic device in firewire to my USB C on my Mac/PC under Windows 10. However be carreful because i1394 is often managed only on one USB C. 
 
 ## Test the Open Haptic Library with the device
-You can test all the application provided by the 3DSystem before programming your own application.
+You can test all the application provided by the 3DSystem before programming your own application installing the OpenHaptic_Developer toolkit in the repositoty.
 
 ## VRPN and Open Haptic
 Optionnaly you can install VRPN 7.35, using CMake and generating .sln to compile it with Visual Studio Communauty 2022
